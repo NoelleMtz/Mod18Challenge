@@ -13,6 +13,7 @@ Using Tableau, I analyzed the data from May 5-June 6, 2023.
 
 # Authors and acknowledgment
 Noelle Martinez
+
 NYC CitiBikes https://www.citibikenyc.com/system-data
 
 # Summary
