@@ -6,10 +6,10 @@ As the new lead analyst for the New York Citi BikeLinks to an external site. pro
 Using Tableau, I analyzed the data from May 5-June 6, 2023.
 
 # Tableau Story
-Story [https://public.tableau.com/views/Module18-CitiBike_16877413393990/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link]
+[Story] (https://public.tableau.com/views/Module18-CitiBike_16877413393990/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # Visuals
-
+![TableauScreenshot](https://github.com/NoelleMtz/Mod18Challenge/assets/123044294/a7814b70-7c75-4684-a364-bafe2a6a9cc9)
 
 # Authors and acknowledgment
 Noelle Martinez
